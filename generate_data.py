@@ -7,16 +7,11 @@
    - Designed for a Tableau dashboard portfolio.
 
  Reference Date
-   - 2026-05-01 (assumed "today")
-   - Data range: 2024-05-01 ~ 2026-04-30 (trailing 24 months)
+   - 2026-05-20 (assumed "today")
+   - Data range: 2024-05-01 ~ 2026-05-20 (trailing 24 months)
 
  Output
-   - 7 CSV files in ./data/
-   - Encoded as UTF-8 with BOM (prevents Korean character corruption
-     when imported into Tableau)
-   - Star Schema layout:
-        Dimensions: dim_partner, dim_product, dim_date
-        Facts     : fact_sales, fact_traffic, fact_promotion, fact_crm
+   - 1 CSV files
 
  Author : Sunghoon Jun
  Updated: 2026-05-28
