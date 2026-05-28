@@ -52,10 +52,6 @@
 ### 💡 주요 분석 인사이트
 - 운영 패턴(리텐션) 분석: 코호트 히트맵 분석 결과, 대다수의 거래처가 **3~4개월 주기**로 높은 재발주율(가장 짙은 녹색)을 보이는 우호적 패턴
 - 실무자 맞춤형 인사이트 전달: 대시보드1의 지도에서 특정 지역을 클릭하면, 해당 지역내 **미수주 거래처 명단이 필터링**되어 영업 사원의 액션 유도
-- **Premium Reseller leads with 16.0%** overall conversion, **Carrier lags at 5.7%**
-- Scatter plot reveals **conversion outliers** by partner tier — Premium Reseller cluster sits highest at 15-17%
-- **Avg LTV by tier** shows surprisingly tight band (₩1.85M ~ ₩1.87M) — suggests opportunity to differentiate Premium customer experience further
-- **Actionable Anomaly Detection**: Scatter plot isolates a critical outlier with **Top 1 traffic vs. 0.6% CVR**, alerting potential offline "Showrooming" effects or severe inventory bottlenecks.
 
 ### Components
 - 미개척 병원 리스트
@@ -71,7 +67,7 @@ b2b-crm-analytics/
 ├── generate_data.py                      # Python data generator
 ├── data/                                 # 1 CSV file (auto-generated)
 ├── tableau/
-│   └── b2b-crm-analytics.twbx    # Packaged Tableau workbook
+│   └── b2b-crm-analytics.twbx            # Packaged Tableau workbook
 └── screenshots/                          # Dashboard screenshots
     ├── 01_overview.png
     └── 02_Action_Cohort.png
