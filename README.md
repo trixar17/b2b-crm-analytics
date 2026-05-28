@@ -20,8 +20,7 @@
 
 ## 🛠 Tech Stack
 
-- **Python 3.10+** — Synthetic data generation (Faker, NumPy, Pandas)
-- **CSV-based Data Model** — 7 normalized tables (3 dimensions + 4 facts)
+- **Python 3.10+** — Synthetic data generation (NumPy, Pandas)
 - **Tableau Desktop 2024.1** — LOD 표현식, 계산된 필드
 
 ---
