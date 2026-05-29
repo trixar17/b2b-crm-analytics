@@ -91,7 +91,7 @@ b2b-crm-analytics/
 - 📧 trixar17@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/trixar17)
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/sunghoon.jun)
-- 🧾 [Notion](https://---)
+- 🧾 [Notion](https://www.notion.so/B2B-CRM-36fb35986d7980ad9888eed024423ff2)
 
 ---
 
